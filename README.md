@@ -1,6 +1,12 @@
 KCA 동아리 스터디 자료들
 ===
 
+2021년 1학기
+---
+
+- [C언어 초급반 교육 프로그램](https://github.com/1982kca/2021-1-c-basic) - [@neont21](https://github.com/neont21)
+- [Flutter 초급반 교육 프로그램](https://github.com/1982kca/2021-1-flutter-basic) - [@neont21](https://github.com/neont21)
+
 2021년 2학기
 ---
 
